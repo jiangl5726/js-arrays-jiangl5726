@@ -17,7 +17,7 @@
 // STEP 1: Create an array called "colors" with exactly
 //         three strings: "red", "green", "blue"
 //         Use let to declare it.
-const colors = ["red", "green", "blue"];
+let colors = ["red", "green", "blue"];
 // STEP 2: Use a for loop to print each color.
 //         Each line should say exactly:
 //         "Color: red"
